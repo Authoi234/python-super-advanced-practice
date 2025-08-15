@@ -14,3 +14,18 @@ def is_prime(n):
             return False
         
     return True
+
+def gen_prime(n,m):
+    while True:
+        if is_prime(n):
+            yield n
+            m -=1
+            if m == 0:
+                return
+        n += 1
+
+if __name__ == "__main__":
+    n,m = 2, 10
+    primes = gen_prime(n, m)
+    sum_primes = sum(primes)
+    print("sum:", sum_primes)
