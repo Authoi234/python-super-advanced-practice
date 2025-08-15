@@ -1,8 +1,10 @@
 class DecoratorClass:
-    def __init__(self, *args):
-        pass
-    def __call__(self, *args):
-        pass
+    def __init__(self, fnc):
+        self.fnc = fnc
+    def __call__(self, *args, **kwargs):
+        print("before")
+        self.fnc(*args, **kwargs)
+        print("after")
 
 @DecoratorClass
 def hello():
