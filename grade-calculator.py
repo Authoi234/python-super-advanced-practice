@@ -22,4 +22,4 @@ def calculate_grade_bisect(marks):
 
 if __name__ == "__main__":
     for i in range(101):
-        assert calculate_grade(i) == calculate_grade_bisect(i), i
+        assert calculate_grade(i) == calculate_grade_bisect(i), i 
