@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, asdict, astuple
 
 @dataclass(order=True)
 class Car:
@@ -21,3 +21,6 @@ if __name__ == "__main__":
     print( car3 )
     print( car1 > car2 )
     print( car3 > car3 )
+
+    car_dt = asdict(car1)
+    car_tpl = astuple(car1)
