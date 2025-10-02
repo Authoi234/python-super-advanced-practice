@@ -33,4 +33,3 @@ print(d) # deque([1, 2, 3], maxlen=5)
 
 d = deque("abcd", maxlen=3)
 print(d) # deque(['b', 'c', 'd'], maxlen=3)
-
