@@ -3169,3 +3169,62 @@
 10/01/2025 09:48:31 PM Scraping : http://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
 10/01/2025 09:48:31 PM Starting new HTTP connection (1): books.toscrape.com:80
 10/01/2025 09:48:32 PM http://books.toscrape.com:80 "GET /catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html HTTP/1.1" 200 21444
+10/30/2025 11:09:13 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:14 AM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 51294
+10/30/2025 11:09:14 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:15 AM http://books.toscrape.com:80 "GET /catalogue/category/books/travel_2/index.html HTTP/1.1" 200 37009
+10/30/2025 11:09:15 AM Scraping : http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+10/30/2025 11:09:15 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:16 AM http://books.toscrape.com:80 "GET /catalogue/its-only-the-himalayas_981/index.html HTTP/1.1" 200 19362
+10/30/2025 11:09:16 AM Scraping : http://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
+10/30/2025 11:09:16 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:17 AM http://books.toscrape.com:80 "GET /catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html HTTP/1.1" 200 20302
+10/30/2025 11:09:17 AM Scraping : http://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html
+10/30/2025 11:09:17 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:18 AM http://books.toscrape.com:80 "GET /catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html HTTP/1.1" 200 18657
+10/30/2025 11:09:18 AM Scraping : http://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html
+10/30/2025 11:09:18 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:19 AM http://books.toscrape.com:80 "GET /catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html HTTP/1.1" 200 20904
+10/30/2025 11:09:19 AM Scraping : http://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html
+10/30/2025 11:09:19 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:20 AM http://books.toscrape.com:80 "GET /catalogue/under-the-tuscan-sun_504/index.html HTTP/1.1" 200 18824
+10/30/2025 11:09:20 AM Scraping : http://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html
+10/30/2025 11:09:20 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:20 AM http://books.toscrape.com:80 "GET /catalogue/a-summer-in-europe_458/index.html HTTP/1.1" 200 20766
+10/30/2025 11:09:21 AM Scraping : http://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html
+10/30/2025 11:09:21 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:21 AM http://books.toscrape.com:80 "GET /catalogue/the-great-railway-bazaar_446/index.html HTTP/1.1" 200 18821
+10/30/2025 11:09:22 AM Scraping : http://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
+10/30/2025 11:09:22 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:22 AM http://books.toscrape.com:80 "GET /catalogue/a-year-in-provence-provence-1_421/index.html HTTP/1.1" 200 18571
+10/30/2025 11:09:23 AM Scraping : http://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
+10/30/2025 11:09:23 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:23 AM http://books.toscrape.com:80 "GET /catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html HTTP/1.1" 200 19107
+10/30/2025 11:09:23 AM Scraping : http://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html
+10/30/2025 11:09:23 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:24 AM http://books.toscrape.com:80 "GET /catalogue/neither-here-nor-there-travels-in-europe_198/index.html HTTP/1.1" 200 19123
+10/30/2025 11:09:24 AM Scraping : http://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html
+10/30/2025 11:09:24 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:25 AM http://books.toscrape.com:80 "GET /catalogue/1000-places-to-see-before-you-die_1/index.html HTTP/1.1" 200 19999
+10/30/2025 11:09:25 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:26 AM http://books.toscrape.com:80 "GET /catalogue/category/books/mystery_3/index.html HTTP/1.1" 200 50388
+10/30/2025 11:09:26 AM Scraping : http://books.toscrape.com/catalogue/sharp-objects_997/index.html
+10/30/2025 11:09:26 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:27 AM http://books.toscrape.com:80 "GET /catalogue/sharp-objects_997/index.html HTTP/1.1" 200 14847
+10/30/2025 11:09:27 AM Scraping : http://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+10/30/2025 11:09:27 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:28 AM http://books.toscrape.com:80 "GET /catalogue/in-a-dark-dark-wood_963/index.html HTTP/1.1" 200 18098
+10/30/2025 11:09:28 AM Scraping : http://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+10/30/2025 11:09:28 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:28 AM http://books.toscrape.com:80 "GET /catalogue/the-past-never-ends_942/index.html HTTP/1.1" 200 19106
+10/30/2025 11:09:29 AM Scraping : http://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+10/30/2025 11:09:29 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:29 AM http://books.toscrape.com:80 "GET /catalogue/a-murder-in-time_877/index.html HTTP/1.1" 200 19343
+10/30/2025 11:09:30 AM Scraping : http://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+10/30/2025 11:09:30 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:30 AM http://books.toscrape.com:80 "GET /catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html HTTP/1.1" 200 19541
+10/30/2025 11:09:30 AM Scraping : http://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+10/30/2025 11:09:30 AM Starting new HTTP connection (1): books.toscrape.com:80
+10/30/2025 11:09:31 AM http://books.toscrape.com:80 "GET /catalogue/the-last-mile-amos-decker-2_754/index.html HTTP/1.1" 200 19538
+10/30/2025 11:09:31 AM Scraping : http://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+10/30/2025 11:09:31 AM Starting new HTTP connection (1): books.toscrape.com:80
